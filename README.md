@@ -1,9 +1,11 @@
 # MAE/ECE 148 Team 10 Project
+![alt text](images/UCSDLogo_JSOE_BlueGold.png)
+
 ## Members
-* 
-* 
-* 
-* 
+* Max
+* Jamie
+* Congge Xu
+* Jerry
 
 ## PROJECT NAME
 
